@@ -1,4 +1,4 @@
-package com.codility;
+package com.DataStructureAndAlgorithm.codility;
 
 import java.util.*;
 
