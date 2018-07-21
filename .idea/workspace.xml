@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86695650-f0a9-459e-b9de-1952f92dbbbc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/min/datastructurenalgorithm/codility/FindLongest1Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/min/datastructurenalgorithm/codility/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/ValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sandbox/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sandbox/min/datastructurenalgorithm/codility/FindLongest1Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sandbox/min/datastructurenalgorithm/codility/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sandbox/min/datastructurenalgorithm/codility/TheaterTickets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sandbox/min/datastructurenalgorithm/leetcode/myBinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sandbox/min/java8inaction/LambdaExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/ValidParentheses.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeTwoSortedLists.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeTwoSortedLists.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/MergeTwoSortedLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="374">
+              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding>
                 <element signature="e#222#223#0" expanded="true" />
                 <element signature="e#253#254#0" expanded="true" />
@@ -75,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -125,8 +124,8 @@
         <option value="$PROJECT_DIR$/src/min/java8inaction/LambdaExpression.java" />
         <option value="$PROJECT_DIR$/src/min/datastructurenalgorithm/codility/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/src/min/datastructurenalgorithm/codility/FindLongest1Sequence.java" />
-        <option value="$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/MergeTwoSortedLists.java" />
+        <option value="$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/ValidParentheses.java" />
       </list>
     </option>
   </component>
@@ -288,16 +287,15 @@
       <workItem from="1531551438273" duration="393000" />
       <workItem from="1531902816109" duration="101000" />
       <workItem from="1531903019170" duration="9675000" />
-      <workItem from="1531989388371" duration="14463000" />
+      <workItem from="1531989388371" duration="14734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26658000" />
+    <option name="totallyTimeSpent" value="26929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -454,13 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/ValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/myBinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -470,12 +461,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/MergeTwoSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="374">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding>
             <element signature="e#222#223#0" expanded="true" />
             <element signature="e#253#254#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/min/datastructurenalgorithm/leetcode/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
